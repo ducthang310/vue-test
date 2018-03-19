@@ -1,14 +1,13 @@
 <template>
   <div class="hello">
-    <h1>Hello there</h1>
-    <p>I'm Vue-test project. You are in master branch</p>
+    <h1>404 not found</h1>
 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: '404',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
